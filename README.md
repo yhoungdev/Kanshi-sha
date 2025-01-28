@@ -22,6 +22,14 @@ Yes, you might be thinking it is a memory black hole 🕳️, but no, it isn’t
 Yeah, I hate writing such a tool on my Mac. I will move it to my Linux for testing.
 
 
+On Linux 👇👇
+
 ![Screenshot 2025-01-28 at 19 05 43](https://github.com/user-attachments/assets/8f1ecaee-dc06-4fb0-b28c-a11474a620f4)
 
 Yes, I saw it— <span style="color:red">notify.</span>
+
+
+On Linux 👇👇
+
+![Screenshot from 2025-01-28 19-56-37](https://github.com/user-attachments/assets/8586cfd6-91cd-495a-91a0-3627228b69b1)
+
