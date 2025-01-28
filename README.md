@@ -4,21 +4,24 @@
 
 ##  Kanshi-sha ( Observer ) is a simple file watcher for .Go files  (WIP)
 
- I am trying out GO lang, and yes, nobody likes manually run their files all time 
-something like ``` go run /cmd/main.go ``` 
+Kanshi-sha (Observer) is a simple file watcher for .go files. (WIP)
 
-``` For me i don't, i dont know about you 🫵🏽 ```.
+I am trying out Go (Golang), and yes, nobody likes manually running their files all the time. Something like:
 
-So I decided to write Kanshi-sha a simple .Go file watcher. ( it it is ludicrous now, but i hope it does the job 
+``` go run /cmd/main.go   ```
 
-Yes i know there are easy tools out there, but i just want to add something to my kitchen.
-
-Yes, you might be thinking it is a memory black hole 🕳️, but no, it isn't one because it kills the process and restarts it again 🤣, might not be the best approach, but it should help for now 
+*** For me, I don’t. I don’t know about you 🫵🏽. ***
 
 
-Yea, i hate writing such tool from my mac. I would move it to my Linux for test 
+So, I decided to write Kanshi-sha, a simple .go file watcher. (It is rudimentary now, but I hope it does the job.)
 
-![Screenshot 2025-01-28 at 18 41 08](https://github.com/user-attachments/assets/046ec254-2d64-47e1-a5f2-81dbcb250b6c)
+Yes, I know there are easier tools out there, but I just want to add something to my toolkit.
+
+Yes, you might be thinking it is a memory black hole 🕳️, but no, it isn’t one because it kills the process and restarts it again 🤣. It might not be the best approach, but it should help for now.
+
+Yeah, I hate writing such a tool on my Mac. I will move it to my Linux for testing.
 
 
-Yes i saw it, inotify
+![Screenshot 2025-01-28 at 19 05 43](https://github.com/user-attachments/assets/8f1ecaee-dc06-4fb0-b28c-a11474a620f4)
+
+Yes, I saw it— <span style="color:red">notify.</span>
