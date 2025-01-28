@@ -2,7 +2,7 @@
 
 
 
-##  Kanshi-sha ( Observer ) is a simple file watcher for .Go files 
+##  Kanshi-sha ( Observer ) is a simple file watcher for .Go files  (WIP)
 
  I am trying out GO lang, and yes, nobody likes manually run their files all time 
 something like ``` go run /cmd/main.go ``` 
