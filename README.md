@@ -17,3 +17,6 @@ Yes, you might be thinking it is a memory black hole 🕳️, but no, it isn't o
 Yea, i hate writing such tool from my mac. I would move it to my Linux for test 
 
 ![Screenshot 2025-01-28 at 18 41 08](https://github.com/user-attachments/assets/046ec254-2d64-47e1-a5f2-81dbcb250b6c)
+
+
+Yes i saw it, inotify
